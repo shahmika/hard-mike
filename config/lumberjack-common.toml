@@ -1,0 +1,26 @@
+
+#General configuration settings
+[General]
+	#Hard limit of the amount that can be broken in one go.
+	#Range: > 1
+	totalLimit = 1024
+	#Hard limit of the amount that can be broken in one go.
+	#Range: > 1
+	tickLimit = 32
+	#Valid modes:0: Only chop blocks with the same blockid1: Chop all wooden blocks
+	#Range: 0 ~ 1
+	mode = 0
+	#Harvest leaves too.
+	leaves = false
+	#Allow axes to chain break any wooden material along with the blocks in the `destroy_connected` tag. False = only blocks in the tag can be broken.
+	useMaterials = true
+	#Multiplier used for attack damage. Tool material * this value = axe damage
+	#Range: 0.0 ~ 2.147483647E9
+	damageMultiplier = 3.2
+	#Multiplier used for durability. Tool material * this value = axe durability
+	#Range: 0.0 ~ 2.147483647E9
+	durabilityMultiplier = 1.5
+	#Speed used for attack speed. 4 - this value = axe speed
+	#Range: -3.9 ~ 0.0
+	speed = -3.3
+

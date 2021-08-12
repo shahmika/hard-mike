@@ -1,0 +1,71 @@
+
+["Trader Settings"]
+	"Wandering Trader Sells The Wandering Trader Staff" = true
+	#Range: 0 ~ 64
+	"Wandering Trader Staff Cost: " = 16
+	"Wandering Trader Sells Trader Mirror" = true
+	#Range: 0 ~ 64
+	"Traders Mirror Cost: " = 16
+	"Wandering Trader Sells Trader Whistle" = true
+	#Range: 0 ~ 64
+	"Traders Whistle Cost: " = 10
+	"Wandering Trader Sells Trader Armor" = true
+	#Range: 0 ~ 64
+	"Traders Helmet Cost: " = 12
+	#Range: 0 ~ 64
+	"Traders Chestplate Cost: " = 18
+	#Range: 0 ~ 64
+	"Traders Leggings Cost: " = 15
+	#Range: 0 ~ 64
+	"Traders Boots Cost: " = 12
+	"Wandering Trader Sells Trader Tools" = true
+	#Range: 0 ~ 64
+	"Traders Sword Cost: " = 18
+	#Range: 0 ~ 64
+	"Traders Axe Cost: " = 16
+	#Range: 0 ~ 64
+	"Traders Pickaxe Cost: " = 16
+	#Range: 0 ~ 64
+	"Traders Shovel Cost: " = 16
+	#Range: 0 ~ 64
+	"Traders Hoe Cost: " = 16
+	#Range: 0 ~ 64
+	"Traders Jerky Cost: " = 16
+	"Wandering Trader Sells Trader Llama Eggs" = true
+	#Range: 0 ~ 64
+	"Traders Llama Egg Cost: " = 20
+	"Wandering Trader Sells Hero Buff" = true
+	#Range: 0 ~ 64
+	"Hero Buff Cost: " = 3
+	"Wandering Trader Sells Mystery Books" = true
+	#Range: 0 ~ 64
+	"Mystery Book Cost: " = 1
+	"Wandering Trader Sells Spicy Wheat" = true
+	#Range: 0 ~ 64
+	"Spicy Wheat Cost: " = 12
+
+["World Settings"]
+	"Traders Whistle and Jerky can spawn in chests" = true
+	"Crouch + Right Click dismisses a Wandering Trader" = true
+	"Trader has a chance to drop a Whistle when Dismissed" = true
+	"Trader has a chance to drop a Whistle or Jerky upon Death" = true
+
+["Armor Settings"]
+	"Traders Armor makes Piglins Neutral" = true
+	"Traders Helm makes Endermen Neutral" = true
+	"Traders Boots come with Bounding" = true
+	"Bounding NULLIFIES Falling Damage" = true
+	"Traders Armor is Immune to Fire" = true
+
+["Item Settings"]
+	#Range: 0 ~ 10000
+	"Traders Whistle Cooldown in Seconds" = 300
+	#Range: 0 ~ 10000
+	"Vindicators Axe Cooldown in Seconds" = 180
+
+["Traitor Settings"]
+	"Wandering TRAITOR can Spawn Naturally" = true
+	"Wandering TRAITOR can appear when attacking Pillagers" = true
+	"Wandering TRAITORS can appear when killing a Wandering Trader" = true
+	"Pillagers will trade you items for Lapis Lazuli while you wear the Traitor Mask" = true
+
